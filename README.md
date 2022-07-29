@@ -1,7 +1,7 @@
 # 명지대학교 Spring 멘토링
 ## Git convention 모음
 
-● feat : 기능추가
+● feat : 기능추가  
 ● fix : 버그 수정  
 ● refactor : 리팩토링(기능은 그대로 두고 코드 수정)  
 ● style : formatting, 세미콜론 추가/코드 변경 x  
